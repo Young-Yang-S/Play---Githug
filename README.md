@@ -3,6 +3,6 @@ This repo is used to write down the answers for questions in small program game 
 
 level 1 
 
-'''
+```
 sd
-'''
+```
