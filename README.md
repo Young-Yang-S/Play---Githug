@@ -58,9 +58,8 @@ git clone https://github.com/Gazler/cloneme my_cloned_repo
 ### Difficulty: **
 #### Question: The text editor 'vim' creates files ending in `.swp` (swap files) for all files that are currently open.  We don't want them creeping into the repository.  Make this repository ignore those swap files which are ending in `.swp`.
 ### Answer: 
-```
 Add the following text to .gitignore` in the repository
-
+```
 vim .gitignore
 --- content
 *.swp
