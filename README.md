@@ -13,3 +13,12 @@ Download Ruby, install githug, use 4 game commands: (githug play(check if answer
 git init
 ```
 
+## Level 2 - config
+### Difficulty: *
+#### Question: Set up your git name and email, this is important so that your commits can be identified.
+### Answer: 
+```
+git config user.name 'Yang'
+git config user.email 'daiyang71@gmail.com'
+```
+
